@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/add3.png</file>
+        <file>Image/bouilli.jpg</file>
+        <file>Image/cray.jpg</file>
+        <file>Image/detail.png</file>
+        <file>Image/duck.jpg</file>
+        <file>Image/empty_star.png</file>
+        <file>Image/fish.jpg</file>
+        <file>Image/full_star.png</file>
+        <file>Image/gray.jpg</file>
+        <file>Image/minus3.png</file>
+        <file>Image/next.png</file>
+        <file>Image/prev.png</file>
+        <file>Image/Restaurant.ico</file>
+        <file>Image/vegetable.jpg</file>
+        <file>Image/write.png</file>
+    </qresource>
+</RCC>
